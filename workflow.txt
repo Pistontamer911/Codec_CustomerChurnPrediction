@@ -1,0 +1,17 @@
+Dataset Collection
+        ↓
+Data Cleaning
+        ↓
+Feature Engineering
+        ↓
+Label Encoding
+        ↓
+Train-Test Split
+        ↓
+Random Forest Training
+        ↓
+Prediction
+        ↓
+Model Evaluation
+        ↓
+Business Insights
